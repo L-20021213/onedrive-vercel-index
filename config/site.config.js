@@ -14,7 +14,7 @@ module.exports = {
   icon: 'https://jsdelivr.sianx.com/npm/picture-sianx@1.0.0/Blog/logo.png',
 
   // The name of your website. Present alongside your icon.
-  title: "Spencer's OneDrive",
+  title: "Sianx's OneDrive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/',
