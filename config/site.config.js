@@ -49,6 +49,10 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
+      name: 'Blog',
+      link: 'https://sianx.com/',
+    },
+    {
       name: 'GitHub',
       link: 'https://github.com/L-20021213',
     },
